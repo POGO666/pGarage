@@ -5,6 +5,6 @@ Garage in RageUI for FiveM [ESX]
 https://youtu.be/L530UG0tRfQ
 
 # My discord help
-discord.gg/HpAYCfHWVX
+https://discord.gg/HpAYCfHWVX
 
 # Created by me.
