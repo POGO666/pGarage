@@ -3,6 +3,8 @@ Garage in RageUI for FiveM [ESX]
 
 [Preview](https://youtu.be/L530UG0tRfQ)
 
+[Other Preview](https://streamable.com/duebyf)
+
 [Discord](https://discord.gg/fcrvNbgazk)
 
 ```lua
